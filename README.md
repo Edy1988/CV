@@ -49,11 +49,11 @@ I want to learn new things every day and get better at what I do. Whether at wor
 * APIs
 
 #### Kings College London (2014) 
-*Dental Radiography*<br>
-*CBCT OPG* 
+ *Dental Radiography*<br>
+ *CBCT OPG* 
 #### Tempdent College (2011 -2012)
 *Diploma in Oral Health Education*
-### Dental Support Services (2010)
+#### Dental Support Services (2010)
 *NVQ Level 3 in Dental Nursing* 
 _________________
  
