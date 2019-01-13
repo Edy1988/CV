@@ -67,6 +67,7 @@ _________________
 ## Personal Interest 
 *Running*<br>
 *Selfimprovement everyday*
+## Find out more
 #### Check out my [GitHub](https://github.com/Edy1988) & [CodeWars](https://www.codewars.com/users/Edy1988)
 #### Get in touch  edy.b.bednarz@gmail.com 
 
