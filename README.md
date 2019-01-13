@@ -51,12 +51,12 @@ Learnings at Makers:
 * APIs
 
 #### Kings College London 
-Dental Radiography 
-CBCT OPG 
+*Dental Radiography*
+*CBCT OPG* 
 #### Tempdent College 
-Diploma in Oral Health Education 
+*Diploma in Oral Health Education*
 ### Dental Support Services 
-NVQ Level 3 in Dental Nursing 
+*NVQ Level 3 in Dental Nursing* 
 _________________
  
 
