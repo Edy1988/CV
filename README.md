@@ -45,7 +45,7 @@ I want to learn new things every day and get better at what I do. Whether at wor
 * HTML, CSS & Bootstrap
 * Test Driven Development (TDD) - RSpec, Capybara, Jasmine, Cypress, Jest
 * Databases - PostgreSQL
-* ORM - ActiveRecord
+* ORM - Devise
 * Deployment - TravisCI, Heroku
 * APIs
 
