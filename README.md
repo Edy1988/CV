@@ -6,17 +6,12 @@ I am a Junior Full Stack Developer looking to learn from the best programmers in
 
 ## Projects
 
-| Project               | Description                                                   | Technologies   | Testing |
-
-| --------------------- |:------------------------------------------------------------- | :------------- | :-------|
-
-| [Developers Pub Quiz](https://github.com/shannongamby/developer-pub-quiz)    |This is a fun multiplayer Quiz game built entirely as a frontend app. To make it more useful for people to find places to play with friends, we have added Google Maps API to show the location and the nearest pubs.| React, CSS, HTML, Heroku, Travis | Jest, Enzyme, Cypress |
-
-| [Bank Tech Test](https://github.com/Edy1988/bank_test) | This app is a command line programme showing TDD approach. | Ruby | RSpec|
-
-| [Game of Life](https://github.com/Edy1988/game_of_life)     | Famous kata developed with TDD      | Ruby       | RSpec |
-
-| [Memory Game](https://github.com/Edy1988/Memory-Game-JS-1)      | This is one of the first games I built in Javascript, even before I joined Makers and learned about TDD!    | Javascript         | |
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| [Developers Pub Quiz](https://github.com/shannongamby/developer-pub-quiz)  |This is a fun multiplayer Quiz game built entirely as a frontend app. To make it more useful for people to find places to play with friends, we have added Google Maps API to show the location and the nearest pubs.|React, CSS, HTML, Heroku, Travis | Jest, Enzyme, Cypress |  |
+| [Bank Tech Test](https://github.com/Edy1988/bank_test)| This app is a command line programme showing TDD approach. |Ruby | RSpec || [Game of Life](https://github.com/Edy1988/game_of_life)| Famous kata developed with TDD   | Ruby | RSpec|
+| [Memory Game](https://github.com/Edy1988/Memory-Game-JS-1)|  This is one of the first games I built in Javascript, even before I joined Makers and learned about TDD!  | Javascript  | |
+| [GiFinder](https://github.com/MHUS25/GiFinder)| A GIF search app I built post makers  | ReactJS, Redux, Giphy API, HTML, CSS, TravisCI, Surge  | Jest & Enzyme|
 
 ## Skills
 
