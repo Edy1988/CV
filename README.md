@@ -56,6 +56,20 @@ I want to learn new things every day and get better at what I do. Whether at wor
 #### Dental Support Services (2010)
 *NVQ Level 3 in Dental Nursing* 
 _________________
- 
+## Experience 
+#### Martin Gough Specialist Dental Pracatice (February 2017 - September 2018)
+*Complience Management*<br>
+*Head Nurse*
+
+#### Dawood and Tanner Specialist Dental Practice (August 2012 - February 2017)
+*Head Nurse and Radiographer*<br>
+*Mentoring junior staff*<br>
+## Personal Interest 
+*Running*<br>
+*Selfimprovement everyday*
+### Check out my [GitHub](https://github.com/Edy1988) & [CodeWars](https://www.codewars.com/users/Edy1988)
+### Get in touch 
+email: edy.b.bednarz@gmail.com 
+
 
 
