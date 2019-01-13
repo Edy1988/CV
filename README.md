@@ -34,7 +34,7 @@ I use my initiative and experience to always try and improve on what I do.
 *Striving for more*<br>
 I want to learn new things every day and get better at what I do. Whether at work or in personal life, I never settle -there is always room for improvement!
 
-## EDUCATION
+## Education
 #### Makers Academy (September 2018 to December 2018)
 * SOLID principles
 * MVC architecture
