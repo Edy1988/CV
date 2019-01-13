@@ -34,28 +34,26 @@ I use my initiative and experience to always try and improve on what I do.
 *Striving for more*<br>
 I want to learn new things every day and get better at what I do. Whether at work or in personal life, I never settle -there is always room for improvement!
 
-## EDUCATION<a name="education"></a>
-#### Makers Academy (September 2018 to December 2018)<a name="makers"></a>
-A highly selective, 16-week intensive software development bootcamp.
-Learnings at Makers:
+## EDUCATION
+#### Makers Academy (September 2018 to December 2018)
+* SOLID principles
+* MVC architecture
+* Agile Methodologies & XP values
+* Git Collaboration 
 * Ruby, Sinatra & Rails
 * HTML, CSS & Bootstrap
 * Test Driven Development (TDD) - RSpec, Capybara, Jasmine, Cypress, Jest
 * Databases - PostgreSQL
 * ORM - ActiveRecord
-* Deployment - TravisCI, Heroku, Surge
-* SOLID principles
-* MVC architecture
-* Agile Methodologies & XP values
-* Git Collaboration 
+* Deployment - TravisCI, Heroku
 * APIs
 
-#### Kings College London 
-*Dental Radiography*
+#### Kings College London (2014) 
+*Dental Radiography*<br>
 *CBCT OPG* 
-#### Tempdent College 
+#### Tempdent College (2011 -2012)
 *Diploma in Oral Health Education*
-### Dental Support Services 
+### Dental Support Services (2010)
 *NVQ Level 3 in Dental Nursing* 
 _________________
  
