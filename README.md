@@ -9,9 +9,10 @@ I am a Junior Full Stack Developer looking to learn from the best programmers in
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 | [Developers Pub Quiz](https://github.com/shannongamby/developer-pub-quiz)  |This is a fun multiplayer Quiz game built entirely as a frontend app. To make it more useful for people to find places to play with friends, we have added Google Maps API to show the location and the nearest pubs.|React, CSS, HTML, Heroku, Travis | Jest, Enzyme, Cypress |  |
-| [Bank Tech Test](https://github.com/Edy1988/bank_test)| This app is a command line programme showing TDD approach. |Ruby | RSpec || [Game of Life](https://github.com/Edy1988/game_of_life)| Famous kata developed with TDD   | Ruby | RSpec|
+| [Bank Tech Test](https://github.com/Edy1988/bank_test)| This app is a command line programme showing TDD approach. |Ruby | RSpec |
+| [Game of Life](https://github.com/Edy1988/game_of_life)| Famous kata developed with TDD   | Ruby | RSpec|
 | [Memory Game](https://github.com/Edy1988/Memory-Game-JS-1)|  This is one of the first games I built in Javascript, even before I joined Makers and learned about TDD!  | Javascript  | |
-| [GiFinder](https://github.com/MHUS25/GiFinder)| A GIF search app I built post makers  | ReactJS, Redux, Giphy API, HTML, CSS, TravisCI, Surge  | Jest & Enzyme|
+
 
 ## Skills
 
@@ -32,7 +33,31 @@ I use my initiative and experience to always try and improve on what I do.
 
 *Striving for more*<br>
 I want to learn new things every day and get better at what I do. Whether at work or in personal life, I never settle -there is always room for improvement!
-## Education
+
+## EDUCATION<a name="education"></a>
+#### Makers Academy (September 2018 to December 2018)<a name="makers"></a>
+A highly selective, 16-week intensive software development bootcamp.
+Learnings at Makers:
+* Ruby, Sinatra & Rails
+* HTML, CSS & Bootstrap
+* Test Driven Development (TDD) - RSpec, Capybara, Jasmine, Cypress, Jest
+* Databases - PostgreSQL
+* ORM - ActiveRecord
+* Deployment - TravisCI, Heroku, Surge
+* SOLID principles
+* MVC architecture
+* Agile Methodologies & XP values
+* Git Collaboration 
+* APIs
+
+#### Kings College London 
+Dental Radiography 
+CBCT OPG 
+#### Tempdent College 
+Diploma in Oral Health Education 
+### Dental Support Services 
+NVQ Level 3 in Dental Nursing 
+_________________
  
 
 
