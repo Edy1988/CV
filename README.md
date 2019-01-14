@@ -58,6 +58,9 @@ I want to learn new things every day and get better at what I do. Whether at wor
 *NVQ Level 3 in Dental Nursing* 
 _________________
 ## Experience 
+#### Makers (January 2019)
+*Assistant Coach*
+
 #### Martin Gough Specialist Dental Pracatice (February 2017 - September 2018)
 *Compliance Manager*<br>
 *Head Nurse*
