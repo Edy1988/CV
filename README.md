@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# tick-tack-toe
-# tick-tack-toe
-# CV
-# test_anagram-
-=======
+
 
  
 <h1 align='center'> Edyta Bednarz </h1>
@@ -80,8 +75,3 @@ _________________
 ## Find out more
 #### Check out my [GitHub](https://github.com/Edy1988) & [CodeWars](https://www.codewars.com/users/Edy1988)
 #### Get in touch  edy.b.bednarz@gmail.com 
-
-
-
->>>>>>> 68058428940efa305795d105e0624ab73b484f56
-# test_anagram-
