@@ -25,10 +25,10 @@ My background in maxillofacial and dental surgery has taught me a great deal abo
 Although I am flexible and receptive to others, I love to follow good processes which help me track my progress and plan ahead. 
 
 *Adaptability*<br>
-I have managed busy referral radiography clinic and multispecialty operating theatre. This meant many unforeseen situations which taught me to use my resources optimally and solve problems one at the time. 
+I have managed a busy referral radiography clinic and multispecialty operating theatre. This meant many unforeseen situations which taught me to use my resources optimally and solve problems one at the time. 
 
 *Teamwork*<br>
-I have learned that a good team is a key to the success of any endeavour. I have formed and managed effective teams, with a fabulous culture of support.
+I have learned that a good team is key to the success of any endeavour. I have formed and managed effective teams, with a fabulous culture of support.
 
 *Active contributor*<br>
 I use my initiative and experience to always try and improve on what I do.
@@ -62,7 +62,7 @@ _________________
 #### Makers (January 2019)
 *Assistant Coach*
 
-#### Martin Gough Specialist Dental Pracatice (February 2017 - September 2018)
+#### Martin Gough Specialist Dental Practice (February 2017 - September 2018)
 *Compliance Manager*<br>
 *Head Nurse*
 
