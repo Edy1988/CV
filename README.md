@@ -10,7 +10,7 @@ Hi, I’m Edy. I am a Full-Stack Developer, and I love working in challenging so
 
 ## Experience
 
-Credit Suisse (February 2019 - Present )<br>
+#### Credit Suisse (February 2019 - Present )<br>
 *Full-Stack Developer*
 
 * Developing applications with Java, Kotlin, Angular, HTTP, CSS, jUnit, Mockito
@@ -23,7 +23,7 @@ Credit Suisse (February 2019 - Present )<br>
 * Cross-team rotation in the Zoo tech divisionto learn and share domain knowledge of services provided by the company
 
 
-Makers (January 2019 - February 2019)<br>
+#### Makers (January 2019 - February 2019)<br>
 *Programming Assistant Coach*
 
 * Helping beginner developers to get started with coding, version control, command-line, and automated testing
@@ -31,11 +31,11 @@ Makers (January 2019 - February 2019)<br>
 * Code reviews and troubleshooting
 * Preparing developers to pass the viva exam
 
-Martin Gough Specialist Dental Practice (February 2017 - September 2018)<br>
+#### Martin Gough Specialist Dental Practice (February 2017 - September 2018)<br>
 * Compliance Manager
 * Head Nurse
 
-Dawood and Tanner Specialist Dental Practice (August 2012 - February 2017)<br>
+#### Dawood and Tanner Specialist Dental Practice (August 2012 - February 2017)<br>
 * Head Nurse and Radiographer
 * Mentor to junior staff
 
