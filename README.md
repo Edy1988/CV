@@ -1,77 +1,76 @@
 
-
+<h6 align='center'>Flat 4, 39 Somerset Road, London, EN51RL | 07817 933 608 | edy.b.bednarz@gmail.com
+<h6>
  
 <h1 align='center'> Edyta Bednarz </h1>
 
 
-I am a Junior Full Stack Developer looking to learn from the best programmers in the community. After several months of exploring and self-teaching, I have applied to Makers Academy to kick start my new career. I have learned the key coding skills in Ruby, Javascript and git collaboration. As a very excited and keen beginner, I would love to work in a challenging and professional environment where I can accelerate my growth.  
-
-## Projects
-
-| Project       | Summary       | Technologies  | Testing |
-| ------------- |---------------| --------------|---------|
-| [Developers Pub Quiz](https://github.com/shannongamby/developer-pub-quiz)  |This is a fun multiplayer Quiz game built entirely as a frontend app. To make it more useful for people to find places to play with friends, we have added Google Maps API to show the location and the nearest pubs.|React, CSS, HTML, Heroku, Travis | Jest, Enzyme, Cypress |  |
-| [Bank Tech Test](https://github.com/Edy1988/bank_test)| This app is a command line programme showing TDD approach. |Ruby | RSpec |
-| [Game of Life](https://github.com/Edy1988/game_of_life)| Famous kata developed with TDD.   | Ruby | RSpec|
-| [Memory Game](https://github.com/Edy1988/Memory-Game-JS-1)|  This is one of the first games I built in Javascript, even before I joined Makers and learned about TDD!  | Javascript  | |
+Hi, I’m Edy. I am a Full-Stack Developer, and I love working in challenging software projects. I’m looking to work in a professional environment where I can give my best, deliver great work, learn and help others grow as well.
 
 
-## Skills
+## Experience
 
-*Communication*<br>
-My background in maxillofacial and dental surgery has taught me a great deal about effective communication, even in very stressful, high stakes situations. 
+Credit Suisse (February 2019 - Present )<br>
+*Full-Stack Developer*
 
-*Believing in a good process*<br>
-Although I am flexible and receptive to others, I love to follow good processes which help me track my progress and plan ahead. 
+* Developing applications with Java, Kotlin, Angular, HTTP, CSS, jUnit, Mockito
+* Implementing, testing, and validating business requirements
+* Adding functionality to existing applications 
+* Communicating with users to develop software solutions to their challenges
+* Developing full-stack features
+* Automating end-to-end, acceptance, and regression tests
+* Deploying changes to external and internal enterprise services
+* Cross-team rotation in the Zoo tech divisionto learn and share domain knowledge of services provided by the company
 
-*Adaptability*<br>
-I have managed a busy referral radiography clinic and multispecialty operating theatre. This meant many unforeseen situations which taught me to use my resources optimally and solve problems one at the time. 
 
-*Teamwork*<br>
-I have learned that a good team is key to the success of any endeavour. I have formed and managed effective teams, with a fabulous culture of support.
+Makers (January 2019 - February 2019)<br>
+*Programming Assistant Coach*
 
-*Active contributor*<br>
-I use my initiative and experience to always try and improve on what I do.
+* Helping beginner developers to get started with coding, version control, command-line, and automated testing
+* Pairing and mentoring developers to apply good software development practices
+* Code reviews and troubleshooting
+* Preparing developers to pass the viva exam
 
-*Striving for more*<br>
-I want to learn new things every day and get better at what I do. Whether at work or in personal life, I never settle -there is always room for improvement!
+Martin Gough Specialist Dental Practice (February 2017 - September 2018)<br>
+* Compliance Manager
+* Head Nurse
+
+Dawood and Tanner Specialist Dental Practice (August 2012 - February 2017)<br>
+* Head Nurse and Radiographer
+* Mentor to junior staff
+
 
 ## Education
-#### Makers Academy (September 2018 to December 2018)
-* SOLID principles
-* MVC architecture
-* Agile Methodologies & XP values
-* Git Collaboration 
-* Ruby, Sinatra & Rails
-* HTML, CSS & Bootstrap
-* Test Driven Development (TDD) - RSpec, Capybara, Jasmine, Cypress, Jest
-* Databases - PostgreSQL
-* ORM - Devise
-* Deployment - TravisCI, Heroku
-* APIs
+#### Udacity Java Nanodegree Programme  
+* SpringBoot
+* Java
+* Microservices Architecture
+* Developing and consuming REST APIs
+* GraphQL
+* MySQL
+* MongoDB
+* Advanced Testing with jUnit
 
-#### Kings College London (2014) 
+#### Makers Academy (September 2018 to December 2018)
+* Agile Methodologies & XP values
+* Backend development with Ruby, Sinatra & Rails
+* Front-end development with React, HTML, CSS & Bootstrap
+* Test-Driven Development with RSpec, Capybara, Jasmine, Cypress, Jest
+* Managing Databases with PostgreSQL
+* Version Control with Git
+* Continuous Integration and Deployment with TravisCI and Heroku
+* Developing and consuming APIs in both back- and front-end
+* SOLID design principles
+* MVC architecture
+
+
+#### NEBDN (2014) 
  *Dental Radiography*<br>
  *CBCT OPG* 
 #### Tempdent College (2011 -2012)
 *Diploma in Oral Health Education*
 #### Dental Support Services (2010)
 *NVQ Level 3 in Dental Nursing* 
-_________________
-## Experience 
-#### Makers (January 2019)
-*Assistant Coach*
 
-#### Martin Gough Specialist Dental Practice (February 2017 - September 2018)
-*Compliance Manager*<br>
-*Head Nurse*
-
-#### Dawood and Tanner Specialist Dental Practice (August 2012 - February 2017)
-*Head Nurse and Radiographer*<br>
-*Mentor to junior staff*<br>
-## Personal Interest 
-*Running*<br>
-*Getting better everyday*
 ## Find out more
-#### Check out my [GitHub](https://github.com/Edy1988) & [CodeWars](https://www.codewars.com/users/Edy1988)
 #### Get in touch  edy.b.bednarz@gmail.com 
